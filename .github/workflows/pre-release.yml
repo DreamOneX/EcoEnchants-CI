@@ -36,7 +36,7 @@ jobs:
           automatic_release_tag: latest
           prerelease: true
           files: |
-            eco-core/core-stub/build/libs/core-stub-8.98.2.jar
-            eco-core/core-plugin/build/libs/core-plugin-8.98.2.jar
-            eco-core/core-proxy/build/libs/core-proxy-8.98.2.jar
+            eco-core/core-stub/build/libs/core-stub-*.jar
+            eco-core/core-plugin/build/libs/core-plugin-*.jar
+            eco-core/core-proxy/build/libs/core-proxy-*.jar
             LICENSE
